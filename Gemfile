@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'cucumber'
+gem 'rspec'
+gem 'watir-webdriver'
+gem 'watir'
+gem 'selenium-webdriver'
+gem 'gherkin'
+gem 'page-object'
